@@ -24,4 +24,4 @@ streamlit run app.py
 - `README.md`: Описание проекта.
 ## Видео-демонстрация
 [Ссылка на видео](video/demo.webm) или встроенное видео ниже:
-<video src="video/demo.webm" controls width="100%"></video>
+https://github.com/user-attachments/assets/ce9e7db8-b8f9-4d74-beab-e4a3e27d894a
